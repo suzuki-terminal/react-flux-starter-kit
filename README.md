@@ -13,4 +13,4 @@ $ npm start
 
 http://localhost:8080/webpack-dev-server/
 
-![スクリーンショット](http://i.imgur.com/Jjwsc.jpg)
+![スクリーンショット](./screen_shot.jpg)
